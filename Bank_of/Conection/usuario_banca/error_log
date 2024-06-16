@@ -1,0 +1,32 @@
+[16-Apr-2024 00:42:39 America/Chicago] PHP Warning:  Undefined array key "id_cuenta" in /home1/pbhhwfte/public_html/web_bank/cuentaMonetaria/eliminar_cuenta.php on line 24
+[09-May-2024 20:49:47 America/Chicago] PHP Warning:  Undefined array key "id_cuenta" in /home1/pbhhwfte/public_html/web_bank/usuario_banca/insertar_usuario.php on line 47
+[09-May-2024 20:49:47 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/usuario_banca/insertar_usuario.php on line 49
+[09-May-2024 20:49:47 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/usuario_banca/insertar_usuario.php on line 51
+[09-May-2024 20:50:08 America/Chicago] PHP Warning:  Undefined array key "id_cuenta" in /home1/pbhhwfte/public_html/web_bank/usuario_banca/insertar_usuario.php on line 47
+[09-May-2024 20:50:08 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/usuario_banca/insertar_usuario.php on line 49
+[09-May-2024 20:50:08 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/usuario_banca/insertar_usuario.php on line 51
+[09-May-2024 21:30:08 America/Chicago] PHP Warning:  Undefined variable $id in /home1/pbhhwfte/public_html/web_bank/usuario_banca/actualizar_usuario.php on line 57
+[09-May-2024 21:50:54 America/Chicago] PHP Parse error:  syntax error, unexpected identifier "actualizarUsuario", expecting "function" in /home1/pbhhwfte/public_html/web_bank/usuario_banca/actualizar_usuario.php on line 101
+[09-May-2024 21:50:55 America/Chicago] PHP Parse error:  syntax error, unexpected identifier "actualizarUsuario", expecting "function" in /home1/pbhhwfte/public_html/web_bank/usuario_banca/actualizar_usuario.php on line 101
+[09-May-2024 21:50:56 America/Chicago] PHP Parse error:  syntax error, unexpected identifier "actualizarUsuario", expecting "function" in /home1/pbhhwfte/public_html/web_bank/usuario_banca/actualizar_usuario.php on line 101
+[09-May-2024 21:50:57 America/Chicago] PHP Parse error:  syntax error, unexpected identifier "actualizarUsuario", expecting "function" in /home1/pbhhwfte/public_html/web_bank/usuario_banca/actualizar_usuario.php on line 101
+[09-May-2024 21:52:03 America/Chicago] PHP Parse error:  syntax error, unexpected identifier "actualizarUsuario", expecting "function" in /home1/pbhhwfte/public_html/web_bank/usuario_banca/actualizar_usuario.php on line 101
+[09-May-2024 21:52:05 America/Chicago] PHP Parse error:  syntax error, unexpected identifier "actualizarUsuario", expecting "function" in /home1/pbhhwfte/public_html/web_bank/usuario_banca/actualizar_usuario.php on line 101
+[09-May-2024 21:55:44 America/Chicago] PHP Warning:  Undefined variable $id in /home1/pbhhwfte/public_html/web_bank/usuario_banca/actualizar_usuario.php on line 57
+[09-May-2024 21:58:17 America/Chicago] PHP Warning:  Undefined variable $id in /home1/pbhhwfte/public_html/web_bank/usuario_banca/actualizar_usuario.php on line 57
+[09-May-2024 21:58:19 America/Chicago] PHP Warning:  Undefined variable $id in /home1/pbhhwfte/public_html/web_bank/usuario_banca/actualizar_usuario.php on line 57
+[09-May-2024 21:58:20 America/Chicago] PHP Warning:  Undefined variable $id in /home1/pbhhwfte/public_html/web_bank/usuario_banca/actualizar_usuario.php on line 57
+[09-May-2024 21:58:21 America/Chicago] PHP Warning:  Undefined variable $id in /home1/pbhhwfte/public_html/web_bank/usuario_banca/actualizar_usuario.php on line 57
+[09-May-2024 22:03:55 America/Chicago] PHP Warning:  Undefined variable $id in /home1/pbhhwfte/public_html/web_bank/usuario_banca/actualizar_usuario.php on line 57
+[09-May-2024 22:06:44 America/Chicago] PHP Warning:  Undefined variable $id in /home1/pbhhwfte/public_html/web_bank/usuario_banca/actualizar_usuario.php on line 55
+[09-May-2024 22:06:55 America/Chicago] PHP Warning:  Undefined variable $id in /home1/pbhhwfte/public_html/web_bank/usuario_banca/actualizar_usuario.php on line 55
+[09-May-2024 22:08:13 America/Chicago] PHP Warning:  Undefined variable $id in /home1/pbhhwfte/public_html/web_bank/usuario_banca/actualizar_usuario.php on line 55
+[09-May-2024 22:13:56 America/Chicago] PHP Warning:  Undefined variable $id in /home1/pbhhwfte/public_html/web_bank/usuario_banca/actualizar_usuario.php on line 55
+[09-May-2024 22:13:58 America/Chicago] PHP Warning:  Undefined variable $id in /home1/pbhhwfte/public_html/web_bank/usuario_banca/actualizar_usuario.php on line 55
+[09-May-2024 22:14:00 America/Chicago] PHP Warning:  Undefined variable $id in /home1/pbhhwfte/public_html/web_bank/usuario_banca/actualizar_usuario.php on line 55
+[09-May-2024 22:14:01 America/Chicago] PHP Warning:  Undefined variable $id in /home1/pbhhwfte/public_html/web_bank/usuario_banca/actualizar_usuario.php on line 55
+[09-May-2024 22:14:02 America/Chicago] PHP Warning:  Undefined variable $id in /home1/pbhhwfte/public_html/web_bank/usuario_banca/actualizar_usuario.php on line 55
+[09-May-2024 22:14:03 America/Chicago] PHP Warning:  Undefined variable $id in /home1/pbhhwfte/public_html/web_bank/usuario_banca/actualizar_usuario.php on line 55
+[09-May-2024 22:16:43 America/Chicago] PHP Warning:  Undefined variable $id in /home1/pbhhwfte/public_html/web_bank/usuario_banca/actualizar_usuario.php on line 55
+[16-May-2024 12:08:15 America/Chicago] PHP Warning:  Undefined variable $id_usuario in /home1/pbhhwfte/public_html/web_bank/usuario_banca/actualizar_usuario.php on line 54
+[21-May-2024 23:24:23 America/Chicago] PHP Warning:  Undefined variable $id_usuario in /home1/pbhhwfte/public_html/web_bank/usuario_banca/actualizar_usuario.php on line 54

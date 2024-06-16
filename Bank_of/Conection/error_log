@@ -1,0 +1,304 @@
+[12-Apr-2024 00:06:54 America/Chicago] PHP Warning:  Undefined array key "id_tarjeta" in /home1/pbhhwfte/public_html/web_bank/insertar_transaccion.php on line 23
+[12-Apr-2024 00:06:54 America/Chicago] PHP Warning:  Undefined array key "numero_tarjeta" in /home1/pbhhwfte/public_html/web_bank/insertar_transaccion.php on line 24
+[12-Apr-2024 00:06:54 America/Chicago] PHP Warning:  Undefined array key "fecha_vencimiento" in /home1/pbhhwfte/public_html/web_bank/insertar_transaccion.php on line 25
+[12-Apr-2024 00:06:54 America/Chicago] PHP Warning:  Undefined array key "codigo_seguridad" in /home1/pbhhwfte/public_html/web_bank/insertar_transaccion.php on line 26
+[12-Apr-2024 00:06:54 America/Chicago] PHP Warning:  Undefined array key "titular" in /home1/pbhhwfte/public_html/web_bank/insertar_transaccion.php on line 27
+[12-Apr-2024 01:29:02 America/Chicago] PHP Warning:  Undefined array key "id_tarjeta" in /home1/pbhhwfte/public_html/web_bank/insertar_transaccion.php on line 23
+[12-Apr-2024 01:29:02 America/Chicago] PHP Warning:  Undefined variable $id in /home1/pbhhwfte/public_html/web_bank/banco.php on line 25
+[12-Apr-2024 01:29:02 America/Chicago] PHP Warning:  Undefined variable $monto in /home1/pbhhwfte/public_html/web_bank/banco.php on line 26
+[12-Apr-2024 01:37:08 America/Chicago] PHP Warning:  Undefined array key "id_tarjeta" in /home1/pbhhwfte/public_html/web_bank/insertar_transaccion.php on line 23
+[12-Apr-2024 01:41:28 America/Chicago] PHP Warning:  Undefined array key "id_tarjeta" in /home1/pbhhwfte/public_html/web_bank/insertar_transaccion.php on line 23
+[12-Apr-2024 02:30:21 America/Chicago] PHP Warning:  Undefined array key "id_tarjeta" in /home1/pbhhwfte/public_html/web_bank/eliminar_cuenta.php on line 24
+[12-Apr-2024 02:39:12 America/Chicago] PHP Warning:  Undefined array key "id_cuenta_monetario" in /home1/pbhhwfte/public_html/web_bank/actualizar_cuenta.php on line 24
+[12-Apr-2024 02:39:12 America/Chicago] PHP Warning:  Undefined array key "saldo" in /home1/pbhhwfte/public_html/web_bank/actualizar_cuenta.php on line 25
+[17-Apr-2024 00:07:53 America/Chicago] PHP Warning:  Undefined array key "numero_tarjeta" in /home1/pbhhwfte/public_html/web_bank/index.php on line 21
+[17-Apr-2024 00:07:53 America/Chicago] PHP Warning:  Undefined array key "fecha_vencimiento" in /home1/pbhhwfte/public_html/web_bank/index.php on line 22
+[17-Apr-2024 00:07:53 America/Chicago] PHP Warning:  Undefined array key "codigo_seguridad" in /home1/pbhhwfte/public_html/web_bank/index.php on line 23
+[17-Apr-2024 00:07:53 America/Chicago] PHP Warning:  Undefined array key "titular" in /home1/pbhhwfte/public_html/web_bank/index.php on line 24
+[17-Apr-2024 00:07:53 America/Chicago] PHP Warning:  Undefined array key "deposito_transaccion" in /home1/pbhhwfte/public_html/web_bank/index.php on line 25
+[17-Apr-2024 00:07:53 America/Chicago] PHP Warning:  Undefined array key "descripcion" in /home1/pbhhwfte/public_html/web_bank/index.php on line 26
+[17-Apr-2024 00:07:53 America/Chicago] PHP Warning:  Undefined variable $numero_tarjeta in /home1/pbhhwfte/public_html/web_bank/Procedimiento.php on line 17
+[17-Apr-2024 00:07:53 America/Chicago] PHP Warning:  Undefined variable $fecha_vencimiento in /home1/pbhhwfte/public_html/web_bank/Procedimiento.php on line 18
+[17-Apr-2024 00:07:53 America/Chicago] PHP Warning:  Undefined variable $codigo_seguridad in /home1/pbhhwfte/public_html/web_bank/Procedimiento.php on line 19
+[17-Apr-2024 00:07:53 America/Chicago] PHP Warning:  Undefined variable $titular in /home1/pbhhwfte/public_html/web_bank/Procedimiento.php on line 20
+[17-Apr-2024 00:07:53 America/Chicago] PHP Warning:  Undefined variable $deposito_transaccion in /home1/pbhhwfte/public_html/web_bank/Procedimiento.php on line 21
+[17-Apr-2024 00:07:53 America/Chicago] PHP Warning:  Undefined variable $descripcion in /home1/pbhhwfte/public_html/web_bank/Procedimiento.php on line 22
+[17-Apr-2024 00:08:31 America/Chicago] PHP Warning:  Undefined array key "numero_tarjeta" in /home1/pbhhwfte/public_html/web_bank/index.php on line 21
+[17-Apr-2024 00:08:31 America/Chicago] PHP Warning:  Undefined array key "fecha_vencimiento" in /home1/pbhhwfte/public_html/web_bank/index.php on line 22
+[17-Apr-2024 00:08:31 America/Chicago] PHP Warning:  Undefined array key "codigo_seguridad" in /home1/pbhhwfte/public_html/web_bank/index.php on line 23
+[17-Apr-2024 00:08:31 America/Chicago] PHP Warning:  Undefined array key "titular" in /home1/pbhhwfte/public_html/web_bank/index.php on line 24
+[17-Apr-2024 00:08:31 America/Chicago] PHP Warning:  Undefined array key "deposito_transaccion" in /home1/pbhhwfte/public_html/web_bank/index.php on line 25
+[17-Apr-2024 00:08:31 America/Chicago] PHP Warning:  Undefined array key "descripcion" in /home1/pbhhwfte/public_html/web_bank/index.php on line 26
+[17-Apr-2024 00:08:31 America/Chicago] PHP Warning:  Undefined variable $numero_tarjeta in /home1/pbhhwfte/public_html/web_bank/Procedimiento.php on line 17
+[17-Apr-2024 00:08:31 America/Chicago] PHP Warning:  Undefined variable $fecha_vencimiento in /home1/pbhhwfte/public_html/web_bank/Procedimiento.php on line 18
+[17-Apr-2024 00:08:31 America/Chicago] PHP Warning:  Undefined variable $codigo_seguridad in /home1/pbhhwfte/public_html/web_bank/Procedimiento.php on line 19
+[17-Apr-2024 00:08:31 America/Chicago] PHP Warning:  Undefined variable $titular in /home1/pbhhwfte/public_html/web_bank/Procedimiento.php on line 20
+[17-Apr-2024 00:08:31 America/Chicago] PHP Warning:  Undefined variable $deposito_transaccion in /home1/pbhhwfte/public_html/web_bank/Procedimiento.php on line 21
+[17-Apr-2024 00:08:31 America/Chicago] PHP Warning:  Undefined variable $descripcion in /home1/pbhhwfte/public_html/web_bank/Procedimiento.php on line 22
+[17-Apr-2024 00:10:02 America/Chicago] PHP Warning:  Undefined array key "numero_tarjeta" in /home1/pbhhwfte/public_html/web_bank/index.php on line 21
+[17-Apr-2024 00:10:02 America/Chicago] PHP Warning:  Undefined array key "fecha_vencimiento" in /home1/pbhhwfte/public_html/web_bank/index.php on line 22
+[17-Apr-2024 00:10:02 America/Chicago] PHP Warning:  Undefined array key "codigo_seguridad" in /home1/pbhhwfte/public_html/web_bank/index.php on line 23
+[17-Apr-2024 00:10:02 America/Chicago] PHP Warning:  Undefined array key "titular" in /home1/pbhhwfte/public_html/web_bank/index.php on line 24
+[17-Apr-2024 00:10:02 America/Chicago] PHP Warning:  Undefined array key "deposito_transaccion" in /home1/pbhhwfte/public_html/web_bank/index.php on line 25
+[17-Apr-2024 00:10:02 America/Chicago] PHP Warning:  Undefined array key "descripcion" in /home1/pbhhwfte/public_html/web_bank/index.php on line 26
+[17-Apr-2024 00:13:37 America/Chicago] PHP Warning:  Undefined variable $numero_tarjeta in /home1/pbhhwfte/public_html/web_bank/Procedimiento.php on line 16
+[17-Apr-2024 00:13:37 America/Chicago] PHP Warning:  Undefined variable $fecha_vencimiento in /home1/pbhhwfte/public_html/web_bank/Procedimiento.php on line 17
+[17-Apr-2024 00:13:37 America/Chicago] PHP Warning:  Undefined variable $codigo_seguridad in /home1/pbhhwfte/public_html/web_bank/Procedimiento.php on line 18
+[17-Apr-2024 00:13:37 America/Chicago] PHP Warning:  Undefined variable $titular in /home1/pbhhwfte/public_html/web_bank/Procedimiento.php on line 19
+[17-Apr-2024 00:13:37 America/Chicago] PHP Warning:  Undefined variable $deposito_transaccion in /home1/pbhhwfte/public_html/web_bank/Procedimiento.php on line 20
+[17-Apr-2024 00:13:37 America/Chicago] PHP Warning:  Undefined variable $descripcion in /home1/pbhhwfte/public_html/web_bank/Procedimiento.php on line 21
+[17-Apr-2024 00:19:53 America/Chicago] PHP Warning:  Undefined variable $datos in /home1/pbhhwfte/public_html/web_bank/Procedimiento.php on line 26
+[17-Apr-2024 00:40:03 America/Chicago] PHP Warning:  Undefined variable $a_numero_autorizacion in /home1/pbhhwfte/public_html/web_bank/Procedimiento.php on line 33
+[18-Apr-2024 21:22:44 America/Chicago] PHP Warning:  Undefined variable $deposito_pago in /home1/pbhhwfte/public_html/web_bank/index.php on line 48
+[18-Apr-2024 21:23:47 America/Chicago] PHP Warning:  Undefined variable $deposito_pago in /home1/pbhhwfte/public_html/web_bank/index.php on line 48
+[18-Apr-2024 21:26:01 America/Chicago] PHP Warning:  Undefined variable $deposito_pago in /home1/pbhhwfte/public_html/web_bank/index.php on line 48
+[18-Apr-2024 21:26:01 America/Chicago] PHP Warning:  Undefined array key "Mensaje" in /home1/pbhhwfte/public_html/web_bank/procedimiento_validarpagotarjera.php on line 32
+[18-Apr-2024 21:31:33 America/Chicago] PHP Warning:  Undefined variable $deposito_pago in /home1/pbhhwfte/public_html/web_bank/index.php on line 48
+[18-Apr-2024 21:31:33 America/Chicago] PHP Warning:  Undefined array key "Mensaje" in /home1/pbhhwfte/public_html/web_bank/procedimiento_validarpagotarjera.php on line 32
+[18-Apr-2024 21:35:10 America/Chicago] PHP Warning:  Undefined variable $deposito_pago in /home1/pbhhwfte/public_html/web_bank/index.php on line 33
+[18-Apr-2024 21:35:10 America/Chicago] PHP Warning:  Undefined array key "Mensaje" in /home1/pbhhwfte/public_html/web_bank/procedimiento_validarpagotarjera.php on line 32
+[18-Apr-2024 21:44:31 America/Chicago] PHP Warning:  Undefined variable $deposito_pago in /home1/pbhhwfte/public_html/web_bank/index.php on line 33
+[18-Apr-2024 21:46:17 America/Chicago] PHP Warning:  Undefined variable $deposito_pago in /home1/pbhhwfte/public_html/web_bank/index.php on line 33
+[18-Apr-2024 21:46:46 America/Chicago] PHP Warning:  Undefined variable $deposito_pago in /home1/pbhhwfte/public_html/web_bank/index.php on line 33
+[18-Apr-2024 21:48:29 America/Chicago] PHP Warning:  Undefined variable $deposito_pago in /home1/pbhhwfte/public_html/web_bank/index.php on line 33
+[18-Apr-2024 21:51:20 America/Chicago] PHP Warning:  Undefined array key "Mensaje" in /home1/pbhhwfte/public_html/web_bank/procedimiento_validarpagotarjera.php on line 32
+[18-Apr-2024 21:51:24 America/Chicago] PHP Warning:  Undefined array key "Mensaje" in /home1/pbhhwfte/public_html/web_bank/procedimiento_validarpagotarjera.php on line 32
+[18-Apr-2024 21:53:00 America/Chicago] PHP Warning:  Undefined array key "MensajeValidarPago" in /home1/pbhhwfte/public_html/web_bank/procedimiento_validarpagotarjera.php on line 32
+[18-Apr-2024 22:08:00 America/Chicago] PHP Warning:  Undefined variable $mensaje in /home1/pbhhwfte/public_html/web_bank/procedimiento_validarpagotarjera.php on line 40
+[18-Apr-2024 22:19:39 America/Chicago] PHP Warning:  Undefined variable $deposito_pago in /home1/pbhhwfte/public_html/web_bank/index.php on line 44
+[18-Apr-2024 22:20:19 America/Chicago] PHP Warning:  Undefined variable $deposito_pago in /home1/pbhhwfte/public_html/web_bank/index.php on line 44
+[10-May-2024 00:01:47 America/Chicago] PHP Warning:  Undefined variable $nombre_usuario in /home1/pbhhwfte/public_html/web_bank/SP_agregarTercero.php on line 16
+[10-May-2024 00:02:08 America/Chicago] PHP Warning:  Undefined variable $nombre_usuario in /home1/pbhhwfte/public_html/web_bank/SP_agregarTercero.php on line 16
+[10-May-2024 00:09:14 America/Chicago] PHP Warning:  Undefined array key "titular_cuenta" in /home1/pbhhwfte/public_html/web_bank/llamar_agregarTercero.php on line 23
+[10-May-2024 00:09:14 America/Chicago] PHP Warning:  Undefined array key "numero_tercero" in /home1/pbhhwfte/public_html/web_bank/llamar_agregarTercero.php on line 24
+[10-May-2024 00:09:14 America/Chicago] PHP Warning:  Undefined array key "titular_tercero" in /home1/pbhhwfte/public_html/web_bank/llamar_agregarTercero.php on line 25
+[10-May-2024 00:15:28 America/Chicago] PHP Warning:  Undefined array key "fecha_vencimiento" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[10-May-2024 00:16:05 America/Chicago] PHP Warning:  Undefined array key "fecha_vencimiento" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[10-May-2024 00:17:11 America/Chicago] PHP Warning:  Undefined array key "fecha_vencimiento" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[10-May-2024 00:26:19 America/Chicago] PHP Warning:  Undefined array key "fecha_vencimiento" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[10-May-2024 00:28:15 America/Chicago] PHP Warning:  Undefined array key "fecha_vencimiento" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[10-May-2024 00:31:57 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 24
+[10-May-2024 00:31:57 America/Chicago] PHP Warning:  Undefined array key "fecha_vencimiento" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[10-May-2024 00:44:50 America/Chicago] PHP Warning:  Undefined array key "fecha_vencimiento" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[10-May-2024 00:47:10 America/Chicago] PHP Warning:  Undefined array key "fecha_vencimiento" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[10-May-2024 00:49:22 America/Chicago] PHP Warning:  Undefined array key "fecha_vencimiento" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 17:26:04 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 24
+[14-May-2024 17:26:04 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 22:00:43 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 24
+[14-May-2024 22:00:43 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 22:04:47 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 24
+[14-May-2024 22:04:47 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 22:05:15 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 24
+[14-May-2024 22:05:15 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 22:05:15 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 24
+[14-May-2024 22:05:15 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 22:05:15 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 24
+[14-May-2024 22:05:15 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 22:05:15 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 24
+[14-May-2024 22:05:15 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 22:05:15 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 24
+[14-May-2024 22:05:15 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 22:05:15 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 24
+[14-May-2024 22:05:15 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 22:05:15 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 24
+[14-May-2024 22:05:15 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 22:05:15 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 24
+[14-May-2024 22:05:15 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 22:05:15 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 24
+[14-May-2024 22:05:15 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 22:05:16 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 24
+[14-May-2024 22:05:16 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 22:05:16 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 24
+[14-May-2024 22:05:16 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 22:05:16 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 24
+[14-May-2024 22:05:16 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 22:05:16 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 24
+[14-May-2024 22:05:16 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 22:05:16 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 24
+[14-May-2024 22:05:16 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 22:05:16 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 24
+[14-May-2024 22:05:16 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 22:05:16 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 24
+[14-May-2024 22:05:16 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 22:05:16 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 24
+[14-May-2024 22:05:16 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 22:05:16 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 24
+[14-May-2024 22:05:16 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 22:05:16 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 24
+[14-May-2024 22:05:16 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 22:05:25 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 24
+[14-May-2024 22:05:25 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 22:07:03 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 24
+[14-May-2024 22:07:03 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 22:09:49 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 24
+[14-May-2024 22:09:49 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 22:10:38 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 24
+[14-May-2024 22:10:38 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 22:25:36 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 24
+[14-May-2024 22:25:36 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 22:25:36 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 24
+[14-May-2024 22:25:36 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 22:30:59 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 24
+[14-May-2024 22:30:59 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 22:34:00 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 24
+[14-May-2024 22:34:00 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 22:46:28 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 24
+[14-May-2024 22:46:28 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 22:47:30 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 24
+[14-May-2024 22:47:30 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 22:48:11 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 24
+[14-May-2024 22:48:11 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 22:48:22 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 24
+[14-May-2024 22:48:22 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 22:52:22 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 24
+[14-May-2024 22:52:22 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 22:53:15 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 24
+[14-May-2024 22:53:15 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 23:07:24 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 24
+[14-May-2024 23:07:24 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 23:09:14 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 24
+[14-May-2024 23:09:14 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 23:11:23 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 23:11:23 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 26
+[14-May-2024 23:12:28 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 23:12:28 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 26
+[14-May-2024 23:13:25 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 23:13:25 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 26
+[14-May-2024 23:13:25 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 23:13:25 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 26
+[14-May-2024 23:14:07 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 23:14:07 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 26
+[14-May-2024 23:14:51 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 23:14:51 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 26
+[14-May-2024 23:16:23 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 23:16:23 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 26
+[14-May-2024 23:16:23 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 23:16:23 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 26
+[14-May-2024 23:16:53 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 23:16:53 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 26
+[14-May-2024 23:16:53 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 23:16:53 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 26
+[14-May-2024 23:17:42 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 23:17:42 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 26
+[14-May-2024 23:17:42 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 23:17:42 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 26
+[14-May-2024 23:18:45 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 23:18:45 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 26
+[14-May-2024 23:18:45 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 23:18:45 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 26
+[14-May-2024 23:19:08 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 23:19:08 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 26
+[14-May-2024 23:19:08 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 23:19:08 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 26
+[14-May-2024 23:22:37 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 23:22:37 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 26
+[14-May-2024 23:22:37 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 23:22:37 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 26
+[14-May-2024 23:23:10 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 23:23:10 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 26
+[14-May-2024 23:23:10 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 23:23:10 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 26
+[14-May-2024 23:23:23 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 23:23:23 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 26
+[14-May-2024 23:23:23 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 23:23:23 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 26
+[14-May-2024 23:23:49 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 23:23:49 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 26
+[14-May-2024 23:23:49 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 23:23:49 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 26
+[14-May-2024 23:24:28 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 23:24:28 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 26
+[14-May-2024 23:24:28 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 23:24:28 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 26
+[14-May-2024 23:24:55 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 23:24:55 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 26
+[14-May-2024 23:24:55 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 23:24:55 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 26
+[14-May-2024 23:25:58 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 23:25:58 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 26
+[14-May-2024 23:25:58 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 23:25:58 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 26
+[14-May-2024 23:26:54 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 23:26:54 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 26
+[14-May-2024 23:26:54 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 23:26:54 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 26
+[14-May-2024 23:27:22 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 23:27:22 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 26
+[14-May-2024 23:27:22 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 23:27:22 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 26
+[14-May-2024 23:27:29 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 23:27:29 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 26
+[14-May-2024 23:27:30 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 23:27:30 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 26
+[14-May-2024 23:27:46 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 23:27:46 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 26
+[14-May-2024 23:27:47 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 23:27:47 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 26
+[14-May-2024 23:27:57 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 23:27:57 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 26
+[14-May-2024 23:27:57 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 23:27:57 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 26
+[14-May-2024 23:28:43 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 23:28:43 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 26
+[14-May-2024 23:28:43 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 23:28:43 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 26
+[14-May-2024 23:29:26 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 23:29:26 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 26
+[14-May-2024 23:29:26 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 23:29:26 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 26
+[14-May-2024 23:31:38 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 23:31:38 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 26
+[14-May-2024 23:31:38 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 23:31:38 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 26
+[14-May-2024 23:32:51 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 23:32:51 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 26
+[14-May-2024 23:32:51 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 23:32:51 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 26
+[14-May-2024 23:33:32 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 23:33:32 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 26
+[14-May-2024 23:33:32 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[14-May-2024 23:33:32 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 26
+[15-May-2024 23:41:02 America/Chicago] PHP Warning:  Undefined array key "titular_cuenta" in /home1/pbhhwfte/public_html/web_bank/llamar_agregarTercero.php on line 23
+[15-May-2024 23:41:02 America/Chicago] PHP Warning:  Undefined array key "numero_tercero" in /home1/pbhhwfte/public_html/web_bank/llamar_agregarTercero.php on line 24
+[15-May-2024 23:41:02 America/Chicago] PHP Warning:  Undefined array key "titular_tercero" in /home1/pbhhwfte/public_html/web_bank/llamar_agregarTercero.php on line 25
+[16-May-2024 00:10:30 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 26
+[16-May-2024 00:13:33 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[16-May-2024 00:13:33 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 26
+[16-May-2024 11:07:07 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 26
+[16-May-2024 15:42:46 America/Chicago] PHP Warning:  Undefined variable $mensaje in /home1/pbhhwfte/public_html/web_bank/SP_agregarTercero.php on line 39
+[16-May-2024 18:55:58 America/Chicago] PHP Warning:  Undefined variable $mensaje in /home1/pbhhwfte/public_html/web_bank/SP_agregarTercero.php on line 39
+[16-May-2024 19:04:55 America/Chicago] PHP Warning:  Undefined variable $mensaje in /home1/pbhhwfte/public_html/web_bank/SP_agregarTercero.php on line 39
+[16-May-2024 19:04:57 America/Chicago] PHP Warning:  Undefined variable $mensaje in /home1/pbhhwfte/public_html/web_bank/SP_agregarTercero.php on line 39
+[16-May-2024 19:10:41 America/Chicago] PHP Warning:  Undefined variable $mensaje in /home1/pbhhwfte/public_html/web_bank/SP_agregarTercero.php on line 39
+[16-May-2024 19:10:43 America/Chicago] PHP Warning:  Undefined variable $mensaje in /home1/pbhhwfte/public_html/web_bank/SP_agregarTercero.php on line 39
+[16-May-2024 19:55:53 America/Chicago] PHP Fatal error:  Cannot declare class conectar, because the name is already in use in /home1/pbhhwfte/public_html/web_bank/conectar.php on line 3
+[16-May-2024 19:59:24 America/Chicago] PHP Warning:  Undefined variable $mensaje in /home1/pbhhwfte/public_html/web_bank/SP_agregarTercero.php on line 39
+[16-May-2024 20:10:31 America/Chicago] PHP Warning:  Undefined array key "titular_cuenta" in /home1/pbhhwfte/public_html/web_bank/llamar_agregarTercero.php on line 23
+[16-May-2024 20:10:31 America/Chicago] PHP Warning:  Undefined array key "numero_tercero" in /home1/pbhhwfte/public_html/web_bank/llamar_agregarTercero.php on line 24
+[16-May-2024 20:10:31 America/Chicago] PHP Warning:  Undefined array key "titular_tercero" in /home1/pbhhwfte/public_html/web_bank/llamar_agregarTercero.php on line 25
+[16-May-2024 20:10:32 America/Chicago] PHP Warning:  Undefined array key "titular_cuenta" in /home1/pbhhwfte/public_html/web_bank/llamar_agregarTercero.php on line 23
+[16-May-2024 20:10:32 America/Chicago] PHP Warning:  Undefined array key "numero_tercero" in /home1/pbhhwfte/public_html/web_bank/llamar_agregarTercero.php on line 24
+[16-May-2024 20:10:32 America/Chicago] PHP Warning:  Undefined array key "titular_tercero" in /home1/pbhhwfte/public_html/web_bank/llamar_agregarTercero.php on line 25
+[16-May-2024 20:11:33 America/Chicago] PHP Warning:  Undefined array key "titular_cuenta" in /home1/pbhhwfte/public_html/web_bank/llamar_agregarTercero.php on line 23
+[16-May-2024 20:11:33 America/Chicago] PHP Warning:  Undefined array key "numero_tercero" in /home1/pbhhwfte/public_html/web_bank/llamar_agregarTercero.php on line 24
+[16-May-2024 20:11:33 America/Chicago] PHP Warning:  Undefined array key "titular_tercero" in /home1/pbhhwfte/public_html/web_bank/llamar_agregarTercero.php on line 25
+[16-May-2024 20:11:33 America/Chicago] PHP Warning:  Undefined array key "titular_cuenta" in /home1/pbhhwfte/public_html/web_bank/llamar_agregarTercero.php on line 23
+[16-May-2024 20:11:33 America/Chicago] PHP Warning:  Undefined array key "numero_tercero" in /home1/pbhhwfte/public_html/web_bank/llamar_agregarTercero.php on line 24
+[16-May-2024 20:11:33 America/Chicago] PHP Warning:  Undefined array key "titular_tercero" in /home1/pbhhwfte/public_html/web_bank/llamar_agregarTercero.php on line 25
+[16-May-2024 20:11:58 America/Chicago] PHP Warning:  Undefined array key "titular_cuenta" in /home1/pbhhwfte/public_html/web_bank/llamar_agregarTercero.php on line 23
+[16-May-2024 20:11:58 America/Chicago] PHP Warning:  Undefined array key "numero_tercero" in /home1/pbhhwfte/public_html/web_bank/llamar_agregarTercero.php on line 24
+[16-May-2024 20:11:58 America/Chicago] PHP Warning:  Undefined array key "titular_tercero" in /home1/pbhhwfte/public_html/web_bank/llamar_agregarTercero.php on line 25
+[16-May-2024 20:11:58 America/Chicago] PHP Warning:  Undefined array key "titular_cuenta" in /home1/pbhhwfte/public_html/web_bank/llamar_agregarTercero.php on line 23
+[16-May-2024 20:11:58 America/Chicago] PHP Warning:  Undefined array key "numero_tercero" in /home1/pbhhwfte/public_html/web_bank/llamar_agregarTercero.php on line 24
+[16-May-2024 20:11:58 America/Chicago] PHP Warning:  Undefined array key "titular_tercero" in /home1/pbhhwfte/public_html/web_bank/llamar_agregarTercero.php on line 25
+[16-May-2024 22:26:42 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 26
+[16-May-2024 23:28:24 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[16-May-2024 23:28:24 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 26
+[21-May-2024 23:02:17 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[21-May-2024 23:02:17 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 26
+[22-May-2024 18:41:10 America/Chicago] PHP Warning:  Undefined array key "numero_tercero" in /home1/pbhhwfte/public_html/web_bank/llamar_agregarTercero.php on line 24
+[22-May-2024 18:41:10 America/Chicago] PHP Warning:  Undefined array key "titular_tercero" in /home1/pbhhwfte/public_html/web_bank/llamar_agregarTercero.php on line 25
+[23-May-2024 18:09:11 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[23-May-2024 18:09:11 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 26
+[23-May-2024 18:13:31 America/Chicago] PHP Warning:  Undefined array key "nombre_usuario" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 25
+[23-May-2024 18:13:31 America/Chicago] PHP Warning:  Undefined array key "usuario_contrasenia" in /home1/pbhhwfte/public_html/web_bank/Login.php on line 26

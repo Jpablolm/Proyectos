@@ -1,0 +1,22 @@
+[16-Apr-2024 00:42:39 America/Chicago] PHP Warning:  Undefined array key "id_cuenta" in /home1/pbhhwfte/public_html/web_bank/cuentaMonetaria/eliminar_cuenta.php on line 24
+[09-May-2024 01:08:58 America/Chicago] PHP Warning:  require_once(/home1/pbhhwfte/public_html/web_bank/cuenta_bancaria/cuenta_bancaria.php): Failed to open stream: No such file or directory in /home1/pbhhwfte/public_html/web_bank/cuenta_bancaria/obtener_cuenta.php on line 31
+[09-May-2024 01:09:22 America/Chicago] PHP Warning:  require_once(/home1/pbhhwfte/public_html/web_bank/cuenta_bancaria/cuenta_bancaria.php): Failed to open stream: No such file or directory in /home1/pbhhwfte/public_html/web_bank/cuenta_bancaria/obtener_cuenta.php on line 31
+[09-May-2024 01:10:01 America/Chicago] PHP Warning:  require_once(/home1/pbhhwfte/public_html/web_bank/cuenta_bancaria/cuenta_bancaria.php): Failed to open stream: No such file or directory in /home1/pbhhwfte/public_html/web_bank/cuenta_bancaria/obtener_cuenta.php on line 31
+[09-May-2024 01:12:35 America/Chicago] PHP Warning:  require_once(/home1/pbhhwfte/public_html/web_bank/cuenta_bancaria/cuenta_bancaria.php): Failed to open stream: No such file or directory in /home1/pbhhwfte/public_html/web_bank/cuenta_bancaria/obtener_cuenta.php on line 31
+[09-May-2024 01:12:45 America/Chicago] PHP Warning:  require_once(/home1/pbhhwfte/public_html/web_bank/cuenta_bancaria/cuenta_bancaria.php): Failed to open stream: No such file or directory in /home1/pbhhwfte/public_html/web_bank/cuenta_bancaria/obtener_cuenta.php on line 31
+[10-May-2024 00:21:01 America/Chicago] PHP Warning:  Undefined array key "numero_cuenta" in /home1/pbhhwfte/public_html/web_bank/cuenta_bancaria/insertar_cuenta.php on line 23
+[10-May-2024 00:21:01 America/Chicago] PHP Warning:  Undefined array key "fecha_apertura" in /home1/pbhhwfte/public_html/web_bank/cuenta_bancaria/insertar_cuenta.php on line 24
+[10-May-2024 00:21:01 America/Chicago] PHP Warning:  Undefined array key "titular_cuenta" in /home1/pbhhwfte/public_html/web_bank/cuenta_bancaria/insertar_cuenta.php on line 25
+[10-May-2024 00:21:01 America/Chicago] PHP Warning:  Undefined array key "saldo_disponible" in /home1/pbhhwfte/public_html/web_bank/cuenta_bancaria/insertar_cuenta.php on line 26
+[10-May-2024 00:21:08 America/Chicago] PHP Warning:  Undefined array key "numero_cuenta" in /home1/pbhhwfte/public_html/web_bank/cuenta_bancaria/insertar_cuenta.php on line 23
+[10-May-2024 00:21:08 America/Chicago] PHP Warning:  Undefined array key "fecha_apertura" in /home1/pbhhwfte/public_html/web_bank/cuenta_bancaria/insertar_cuenta.php on line 24
+[10-May-2024 00:21:08 America/Chicago] PHP Warning:  Undefined array key "titular_cuenta" in /home1/pbhhwfte/public_html/web_bank/cuenta_bancaria/insertar_cuenta.php on line 25
+[10-May-2024 00:21:08 America/Chicago] PHP Warning:  Undefined array key "saldo_disponible" in /home1/pbhhwfte/public_html/web_bank/cuenta_bancaria/insertar_cuenta.php on line 26
+[10-May-2024 00:21:12 America/Chicago] PHP Warning:  Undefined array key "numero_cuenta" in /home1/pbhhwfte/public_html/web_bank/cuenta_bancaria/insertar_cuenta.php on line 23
+[10-May-2024 00:21:12 America/Chicago] PHP Warning:  Undefined array key "fecha_apertura" in /home1/pbhhwfte/public_html/web_bank/cuenta_bancaria/insertar_cuenta.php on line 24
+[10-May-2024 00:21:12 America/Chicago] PHP Warning:  Undefined array key "titular_cuenta" in /home1/pbhhwfte/public_html/web_bank/cuenta_bancaria/insertar_cuenta.php on line 25
+[10-May-2024 00:21:12 America/Chicago] PHP Warning:  Undefined array key "saldo_disponible" in /home1/pbhhwfte/public_html/web_bank/cuenta_bancaria/insertar_cuenta.php on line 26
+[10-May-2024 00:22:59 America/Chicago] PHP Warning:  Undefined array key "numero_cuenta" in /home1/pbhhwfte/public_html/web_bank/cuenta_bancaria/insertar_cuenta.php on line 23
+[10-May-2024 00:22:59 America/Chicago] PHP Warning:  Undefined array key "fecha_apertura" in /home1/pbhhwfte/public_html/web_bank/cuenta_bancaria/insertar_cuenta.php on line 24
+[10-May-2024 00:22:59 America/Chicago] PHP Warning:  Undefined array key "titular_cuenta" in /home1/pbhhwfte/public_html/web_bank/cuenta_bancaria/insertar_cuenta.php on line 25
+[10-May-2024 00:22:59 America/Chicago] PHP Warning:  Undefined array key "saldo_disponible" in /home1/pbhhwfte/public_html/web_bank/cuenta_bancaria/insertar_cuenta.php on line 26
