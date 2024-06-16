@@ -1,0 +1,45 @@
+{
+  "name": "Bank official",
+  "short_name": "Bank official",
+  "icons": [
+    {
+      "src": "images/icon.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "images/icon3.png",
+      "sizes": "190x190",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "images/icon2.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "images/CAPTURA.png",
+      "sizes": "1336x672",
+      "type": "image/png"
+    },
+    {
+      "src": "images/CAPTION.png",
+      "sizes": "1366x645",
+      "type": "image/png"
+    },
+    {
+      "src": "images/CAPTION.png",
+      "sizes": "1920x1080",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "index.html",
+  "theme_color": "#00897b",
+  "background_color": "#FFFFFF",
+  "display": "standalone"
+}

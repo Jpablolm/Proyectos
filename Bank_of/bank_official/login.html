@@ -1,0 +1,404 @@
+<html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="description" content="">
+	<meta name="author" content="">
+	<title> Zonebiz - Business Consulting Bootstrap4 Responsive Template </title>
+	<!-- Bootstrap core CSS -->
+	<link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+	<!-- Fontawesome CSS -->
+	<link href="css/all.css" rel="stylesheet">
+	<!-- Custom styles for this template -->
+	<link href="css/style.css" rel="stylesheet">
+</head>
+<body>
+<div class="wrapper-main">
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-light top-nav">
+        <div class="container">
+            <a class="navbar-brand" href="index.html">
+				<img src="images/logo1.png" alt="logo" />
+            </a>
+            <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="fas fa-bars"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+				<ul class="navbar-nav ml-auto">
+					<li class="nav-item">
+						<a class="nav-link active" href="index.html">Inicio</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="about.html">Nosotros</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link active" href="login.html">Login</a>
+					</li>
+				</ul>
+            </div>
+        </div>
+    </nav>
+	
+	<!-- full Title -->
+	<div class="full-title">
+		<div class="container">
+			<!-- Page Heading/Breadcrumbs -->
+			<h1 class="mt-4 mb-3"> Login </h1> 
+			<div class="breadcrumb-main">
+				<ol class="breadcrumb">
+					<li class="breadcrumb-item">
+						<a href="index.html">Inicio</a>
+					</li>
+					<li class="breadcrumb-item active">Login</li>
+				</ol>
+			</div>
+		</div>
+	</div>
+
+    <html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {font-family: Arial, Helvetica, sans-serif;}
+form {border: 3px solid #f1f1f1;}
+
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+button {
+  background-color: #2E89F5;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+.cancelbtn {
+  width: auto;
+  padding: 10px 18px;
+  background-color: #f44336;
+}
+
+.ccancelbtn {
+  width: auto;
+  padding: 10px 18px;
+  background-color:#ffffffbd;
+  
+}
+
+.imgcontainer {
+  text-align: center;
+  margin: 24px 0 12px 0;
+}
+
+img.avatar {
+  width: 40%;
+  border-radius: 50%;
+}
+
+.container {
+  padding: 16px;
+}
+
+span.psw {
+  float: right;
+  padding-top: 16px;
+}
+
+/* Change styles for span and cancel button on extra small screens */
+@media screen and (max-width: 300px) {
+  span.psw {
+     display: block;
+     float: none;
+  }
+  .cancelbtn {
+     width: 100%;
+  }
+}
+</style>
+</head>
+<body>
+
+
+  <div class="imgcontainer">
+    
+  </div>
+
+  <div class="container">
+    <label for="uname"><b>Username</b></label>
+    <input type="text" placeholder="Enter Username" id="uname" required>
+
+    <label for="psw"><b>Password</b></label>
+    <input type="password" placeholder="Enter Password" id="pws" required>
+        
+    <button type="button" onclick ="login()" id="enviarBtn" class="btn btn-primary">Login</button>
+    <label> 
+      <input type="checkbox" checked="checked" name="remember"> Remember me
+    </label>
+  </div>
+
+  <div class="container" style="background-color:#f1f1f1">
+    <button type="button" class="cancelbtn">Cancel</button>
+    <span class="psw">Forgot <a href="#">password?</a></span>
+	
+  </div>
+
+  <div class="container" style="background-color:#f1f1f1">
+	<html>
+		<style>
+		body {font-family: Arial, Helvetica, sans-serif;}
+		* {box-sizing: border-box;}
+		
+		/* Full-width input fields */
+		input[type=text], input[type=password] {
+		  width: 100%;
+		  padding: 15px;
+		  margin: 5px 0 22px 0;
+		  display: inline-block;
+		  border: none;
+		  background: #f1f1f1;
+		}
+		
+		/* Add a background color when the inputs get focus */
+		input[type=text]:focus, input[type=password]:focus {
+		  background-color: #ddd;
+		  outline: none;
+		}
+		
+		/* Set a style for all buttons */
+		button {
+		  background-color: #04AA6D;
+		  color: white;
+		  padding: 14px 20px;
+		  margin: 8px 0;
+		  border: none;
+		  cursor: pointer;
+		  width: 100%;
+		  opacity: 0.9;
+		}
+		
+		button:hover {
+		  opacity:1;
+		}
+		
+		/* Extra styles for the cancel button */
+		.cancelbtn {
+		  padding: 14px 20px;
+		  background-color: #f44336;
+		}
+		
+		/* Float cancel and signup buttons and add an equal width */
+		.cancelbtn, .signupbtn {
+		  float: left;
+		  width: 50%;
+
+		}
+		.signupbtnn {
+		  float: left;
+		  width: 50%;
+		  background: #f1f1f1;
+		}
+		
+		/* Add padding to container elements */
+		.container {
+		  padding: 16px;
+		}
+		
+		/* The Modal (background) */
+		.modal {
+		  display: none; /* Hidden by default */
+		  position: fixed; /* Stay in place */
+		  z-index: 1; /* Sit on top */
+		  left: 0;
+		  top: 0;
+		  width: 100%; /* Full width */
+		  height: 100%; /* Full height */
+		  overflow: auto; /* Enable scroll if needed */
+		  background-color: #474e5d;
+		  padding-top: 50px;
+		}
+		
+		/* Modal Content/Box */
+		.modal-content {
+		  background-color: #fefefe;
+		  margin: 5% auto 15% auto; /* 5% from the top, 15% from the bottom and centered */
+		  border: 1px solid #888;
+		  width: 80%; /* Could be more or less, depending on screen size */
+		}
+		
+		/* Style the horizontal ruler */
+		hr {
+		  border: 1px solid #f1f1f1;
+		  margin-bottom: 25px;
+		}
+		 
+		/* The Close Button (x) */
+		.close {
+		  position: absolute;
+		  right: 35px;
+		  top: 15px;
+		  font-size: 40px;
+		  font-weight: bold;
+		  color: #f1f1f1;
+		}
+		
+		.close:hover,
+		.close:focus {
+		  color: #f44336;
+		  cursor: pointer;
+		}
+		
+		/* Clear floats */
+		.clearfix::after {
+		  content: "";
+		  clear: both;
+		  display: table;
+		}
+		
+		/* Change styles for cancel button and signup button on extra small screens */
+		@media screen and (max-width: 300px) {
+		  .cancelbtn, .signupbtn {
+			 width: 100%;
+		  }
+		}
+		</style>
+		<body>
+		
+			<button  type="submit" class="signupbtnn"></button>
+		
+		<div id="id01" class="modal">
+		  <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">&times;</span>
+		  <form class="modal-content" action="/action_page.php">
+			<div class="container">
+			  <h1>Crear Nuevo Usuario</h1>
+			  <p>Por favor complete este formulario para crear una cuenta.</p>
+			  <hr>
+			  <label for="email"><b>Nombre de usuario</b></label>
+				<input type="checkbox" checked="checked" name="remember" style="margin-bottom:15px"> Remember me
+			  </label>
+		
+			  <p>By creating an account you agree to our <a href="#" style="color:dodgerblue">Terms & Privacy</a>.</p>
+		
+			  <div class="clearfix">
+				<button type="button" onclick="document.getElementById('id01').style.display='none'" class="cancelbtn">Cancel</button>
+				<button type="submit" class="signupbtn">Sign Up</button>
+			  </div>
+			</div>
+		  </form>
+		</div>
+		
+		<script>
+		// Get the modal
+		function login(){
+		console.log("estoy logueando")
+		}
+		var modal = document.getElementById('id01');
+		
+		// When the user clicks anywhere outside of the modal, close it
+		window.onclick = function(event) {
+		  if (event.target == modal) {
+			modal.style.display = "none";
+		  }
+		}
+		</script>
+		
+		</body>
+		</html>  
+    
+		
+
+  </div>
+
+
+
+</body>
+</html>
+
+
+
+				<!-- login Details Column -->
+				
+			</div>
+			<!-- /.row -->
+		</div>
+		<!-- /.container -->
+	</div>
+
+	
+	
+
+	<!--footer starts from here-->
+	<footer class="footer bg-dark text-white pt-5">
+		<div class="container">
+			<div class="row">
+				<!-- About Us Section -->
+				<div class="col-lg-3 col-md-6 col-sm-6">
+					<h5 class="text-uppercase mb-4 font-weight-bold">Sobre Nosotros</h5>
+					<p class="text-center-custom">Somos un banco con una sólida presencia tanto a nivel nacional como internacional. Nos dedicamos a ofrecer un servicio personalizado que haga sentir a nuestros clientes como parte de una gran familia, integrándolos en la comunidad de Bank Oficial.</p>
+				</div>
+
+				<!-- Contact Us Section -->
+				<div class="col-lg-3 col-md-6 col-sm-6">
+					<h5 class="text-uppercase mb-4 font-weight-bold">Contáctenos</h5>
+					<p><i class="fas fa-map-marker-alt"></i> ZONA 7, GUatemala, Guatemala</p>
+					<p><i class="fas fa-phone"></i> +502 45789865</p>
+					<p><i class="fas fa-envelope"></i>wearebankoffical@webupsg.com.gt</p>
+				</div>
+
+				<!-- Quick Links Section -->
+				<div class="col-lg-3 col-md-6 col-sm-6">
+					<h5 class="text-uppercase mb-4 font-weight-bold">Enlaces Rápidos</h5>
+					<ul class="list-unstyled">
+						<li><a href="#" class="text-white">Inicio</a></li>
+						<li><a href="#" class="text-white">Servicios</a></li>
+						<li><a href="#" class="text-white">Acerca de</a></li>
+						<li><a href="#" class="text-white">Contacto</a></li>
+					</ul>
+				</div>
+
+				<!-- Social Media Section -->
+				<div class="col-lg-3 col-md-6 col-sm-6">
+					<h5 class="text-uppercase mb-4 font-weight-bold">Síguenos</h5>
+					<div>
+						<a href="#" class="text-white mr-4"><i class="fab fa-facebook-f"></i></a>
+						<a href="#" class="text-white mr-4"><i class="fab fa-twitter"></i></a>
+						<a href="#" class="text-white mr-4"><i class="fab fa-instagram"></i></a>
+						<a href="#" class="text-white"><i class="fab fa-linkedin"></i></a>
+					</div>
+				</div>
+			</div>
+			
+			<div class="row mt-4">
+				<div class="col-md-12 text-center">
+					<p class="mb-0">© 2024 Banco. Todos los derechos reservados.</p>
+				</div>
+			</div>
+		</div>
+	</footer>
+</div>
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+<script src="vendor/jquery/jquery.min.js"></script>
+<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<!-- login form JavaScript -->
+<script src="js/jqBootstrapValidation.js"></script>
+<script src="js/jquery.appear.js"></script>
+<script src="js/owl.carousel.min.js"></script>
+<script src="js/script.js"></script>
+<script src="js/login.js"></script>
+</body>
+</html>

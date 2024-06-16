@@ -1,0 +1,46 @@
+[
+    {
+      "nombre_usuario": "juan_perez",
+      "usuario_contrasenia": "contrasenia1"
+    },
+    {
+      "nombre_usuario": "maria_garcia",
+      "usuario_contrasenia": "contrasenia2"
+    },
+    {
+      "nombre_usuario": "luis_rodriguez",
+      "usuario_contrasenia": "contrasenia3"
+    },
+    {
+      "nombre_usuario": "ana_martinez",
+      "usuario_contrasenia": "contrasenia4"
+    },
+    {
+      "nombre_usuario": "carlos_lopez",
+      "usuario_contrasenia": "contrasenia5"
+    },
+    {
+      "nombre_usuario": "elena_hernandez",
+      "usuario_contrasenia": "contrasenia6"
+    },
+    {
+      "nombre_usuario": "javier_diaz",
+      "usuario_contrasenia": "contrasenia7"
+    },
+    {
+      "nombre_usuario": "sofia_sanchez",
+      "usuario_contrasenia": "contrasenia8"
+    },
+    {
+      "nombre_usuario": "diego_ramirez",
+      "usuario_contrasenia": "contrasenia9"
+    },
+    {
+      "nombre_usuario": "laura_gomez",
+      "usuario_contrasenia": "contrasenia10"
+    },
+    {
+      "nombre_usuario": "ivan_perez",
+      "usuario_contrasenia": "contrasenia11"
+    }
+  ]

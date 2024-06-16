@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Realizar Transferencia</title>
+    <style>
+        body {
+            background-color: rgb(1, 89, 124);
+            color: #fff;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            position: relative; /* Necesario para la posición absoluta del botón */
+        }
+
+        h2 {
+            text-align: center;
+        }
+
+        form {
+            background-color: rgba(255, 255, 255, 0.1);
+            padding: 30px;
+            border-radius: 10px;
+            max-width: 500px;
+            margin: auto;
+            color: #fff;
+            text-align: left;
+        }
+
+        label, input[type="text"], input[type="submit"] {
+            display: block;
+            width: 100%;
+            margin: 10px 0;
+        }
+
+        input[type="text"] {
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            background-color: rgba(0, 0, 0, 0.1);
+            color: #fff;
+        }
+
+        input[type="submit"] {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        input[type="submit"]:hover {
+            background-color: #45a049;
+        }
+
+        #message {
+            margin-top: 20px;
+            padding: 10px;
+            border-radius: 5px;
+            display: none; /* Ocultar inicialmente */
+        }
+
+        #message.error {
+            background-color: #f44336; /* Rojo para mensajes de error */
+            color: white;
+        }
+
+        #message.success {
+            background-color: #4CAF50; /* Verde para mensajes de éxito */
+            color: white;
+        }
+
+        #back-button {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            background-color: red;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        #back-button:hover {
+            background-color: darkred;
+        }
+    </style>
+</head>
+<body>
+    <h2>Realizar Transferencia</h2>
+    <form id="form-validarTrasnferencia">
+        <label for="uname_titula_cuenta">Titular de la Cuenta:</label>
+        <input type="text" placeholder="Ingresa el nombre del titular de la cuenta" id="uname_titula_cuenta" name="titular_cuenta" required>
+
+        <label for="uname_numero_cuenta">Número de tu Cuenta:</label>
+        <input type="text" placeholder="Ingresa tu número de cuenta" id="uname_numero_cuenta" name="numero_banca_cuenta" required>
+
+        <label for="uname_numero_cuenta_tercero">Número de Cuenta del Tercero:</label>
+        <input type="text" placeholder="Ingresa el número de cuenta del tercero" id="uname_numero_cuenta_tercero" name="numero_cuenta" required>
+
+        <label for="uname_deposito_pago">Depósito del Pago:</label>
+        <input type="text" placeholder="Ingresa el monto del pago" id="uname_deposito_pago" name="deposito_pago" required>
+
+        <label for="uname_descripcion">Descripción del Pago:</label>
+        <input type="text" placeholder="Ingresa una descripción del pago" id="uname_descripcion" name="descripcion" required>
+
+        <input type="submit" value="Realizar Transferencia">
+    </form>
+    <div id="message"></div>
+    <button id="back-button" onclick="goBack()">Regresar</button>
+    <script src="js/validarTrasferencia.js"></script>
+    <script>
+        function goBack() {
+            window.history.back();
+        }
+    </script>
+</body>
+</html>
