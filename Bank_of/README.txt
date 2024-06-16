@@ -5,3 +5,4 @@ El objetivo del proyecto era crear un PWA, por lo que el contenido es una base d
 
 
 //Actualmente la base de datos y los archivos de conexión la base de datos se encuentran en un host. Por lo tanto, en el frontend de la página se hace el llamado//
+https://webuspg.online/web_bank/bank_official/index.html
